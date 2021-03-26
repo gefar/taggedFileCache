@@ -1,6 +1,6 @@
 <?php
 
-namespace Unikent\Cache;
+namespace Gefar\Cache;
 
 use Illuminate\Cache\FileStore;
 use Illuminate\Filesystem\Filesystem;

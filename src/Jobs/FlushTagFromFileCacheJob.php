@@ -1,6 +1,6 @@
 <?php
 
-namespace Unikent\Jobs;
+namespace Gefar\Jobs;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Queue\SerializesModels;

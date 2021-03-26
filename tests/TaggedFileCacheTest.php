@@ -1,8 +1,8 @@
 <?php
 
-use Unikent\Cache\TaggableFileStore;
-use Unikent\Cache\TaggedFileCache;
-use Unikent\Cache\FileTagSet;
+use Gefar\Cache\TaggableFileStore;
+use Gefar\Cache\TaggedFileCache;
+use Gefar\Cache\FileTagSet;
 
 class TaggedFileCacheTest extends BaseTest
 {

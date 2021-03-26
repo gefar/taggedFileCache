@@ -1,5 +1,5 @@
 <?php
-namespace Unikent\Cache;
+namespace Gefar\Cache;
 
 use Illuminate\Cache\TagSet;
 use Unikent\Jobs\FlushTagFromFileCacheJob;
